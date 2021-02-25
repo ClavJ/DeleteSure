@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/svg">
+        <file>file1080.svg</file>
+        <file>start1080.svg</file>
+        <file>stop1080.svg</file>
+        <file>close1080.svg</file>
+        <file>close1080click.svg</file>
+        <file>close1080hoover.svg</file>
+        <file>minimize1080.svg</file>
+        <file>minimize1080click.svg</file>
+        <file>minimize1080hoover.svg</file>
+        <file>logo.svg</file>
+        <file>stop1080click.svg</file>
+        <file>loaderStart.svg</file>
+        <file>loaderStop.svg</file>
+        <file>info1080.svg</file>
+        <file>info1080click.svg</file>
+        <file>info1080hoover.svg</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>btn_path.qss</file>
+        <file>btn_start.qss</file>
+        <file>btn_stop.qss</file>
+        <file>slider_passe.qss</file>
+        <file>btn_close.qss</file>
+        <file>btn_minimize.qss</file>
+        <file>btn_info.qss</file>
+    </qresource>
+</RCC>

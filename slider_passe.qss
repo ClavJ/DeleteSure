@@ -1,0 +1,41 @@
+QSlider 
+{
+	background-color: transparent;
+
+}
+
+QSlider::groove:horizontal
+{
+        background-color: transparent;
+        height: 10px;
+
+}
+
+
+QSlider::sub-page:horizontal 
+{
+background: qlineargradient(x1: 0, y1: 0.2, x2: 1, y2: 1,
+    stop: 0 #202020, stop: 1 #05B058);
+
+}
+
+
+QSlider::add-page:horizontal
+{
+        background-color: #a9a9aa;
+
+}
+
+
+QSlider::handle:horizontal {
+    background-color: rgb(75, 75, 75);
+    width: 20px;
+    border-radius: 10px;
+    margin: -10px 0;
+}
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+QPushButton
+{
+        background-color: #666;
+        color: #fff;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+        border-bottom-right-radius: 70px;
+        border-bottom-left-radius: 70px;
+        border-image:url(:/svg/start1080.svg);
+
+}
+
+
+
+QPushButton::hover
+{
+        background-color: rgb(65, 65, 65);
+
+}
+
+
+QPushButton::pressed
+{
+        background-color: #3d4ef2;
+
+}
